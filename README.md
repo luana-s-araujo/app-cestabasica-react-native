@@ -1,2 +1,9 @@
-# app-cestabasica-react-native
-App criado com React Native, com o tema de cesta básica, onde o usuário pode ver o valor e itens da cesta.
+## App feito com React Native
+
+App de compra de itens de uma cesta básica
+
+## Rodando o App
+
+1 - npm install
+
+2 - npm start
